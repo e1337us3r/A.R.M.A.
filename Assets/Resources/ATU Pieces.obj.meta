@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: cda58023c2102984380deddba620c55b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ATU_Core_Left
+    100004: ATU_Core_Right
+    100006: ATU_Main
+    100008: ATU_Mainrail_Clearance_Box_Left
+    100010: ATU_Mainrail_Clearance_Box_Right
+    100012: ATU_Mainrail_Extension_Left
+    100014: ATU_Mainrail_Extension_Right
+    100016: ATU_Mid_Filler
+    100018: ATU_Part_Left
+    100020: ATU_Part_Right
+    100022: ATU_Siderail_Extension_Left
+    100024: ATU_Siderail_Extension_Right
+    100026: ATU_Top_Electric_Box_Short_Left
+    100028: ATU_Top_Electric_Box_Short_Right
+    100030: ATU_Top_Electric_Box_Tall_Left
+    100032: ATU_Top_Electric_Box_Tall_Right
+    100034: ATU_Top_Filler_Short
+    100036: ATU_Top_Filler_Tall
+    400000: //RootNode
+    400002: ATU_Core_Left
+    400004: ATU_Core_Right
+    400006: ATU_Main
+    400008: ATU_Mainrail_Clearance_Box_Left
+    400010: ATU_Mainrail_Clearance_Box_Right
+    400012: ATU_Mainrail_Extension_Left
+    400014: ATU_Mainrail_Extension_Right
+    400016: ATU_Mid_Filler
+    400018: ATU_Part_Left
+    400020: ATU_Part_Right
+    400022: ATU_Siderail_Extension_Left
+    400024: ATU_Siderail_Extension_Right
+    400026: ATU_Top_Electric_Box_Short_Left
+    400028: ATU_Top_Electric_Box_Short_Right
+    400030: ATU_Top_Electric_Box_Tall_Left
+    400032: ATU_Top_Electric_Box_Tall_Right
+    400034: ATU_Top_Filler_Short
+    400036: ATU_Top_Filler_Tall
+    2100000: ATU_Core_LeftMat
+    2100002: ATU_Core_RightMat
+    2100004: ATU_MainMat
+    2100006: ATU_Mainrail_Clearance_Box_LeftMat
+    2100008: ATU_Mainrail_Clearance_Box_RightMat
+    2100010: ATU_Mainrail_Extension_LeftMat
+    2100012: ATU_Mainrail_Extension_RightMat
+    2100014: ATU_Mid_FillerMat
+    2100016: ATU_Part_LeftMat
+    2100018: ATU_Part_RightMat
+    2100020: ATU_Siderail_Extension_LeftMat
+    2100022: ATU_Siderail_Extension_RightMat
+    2100024: ATU_Top_Electric_Box_Short_LeftMat
+    2100026: ATU_Top_Electric_Box_Short_RightMat
+    2100028: ATU_Top_Electric_Box_Tall_LeftMat
+    2100030: ATU_Top_Electric_Box_Tall_RightMat
+    2100032: ATU_Top_Filler_ShortMat
+    2100034: ATU_Top_Filler_TallMat
+    2300000: ATU_Core_Left
+    2300002: ATU_Core_Right
+    2300004: ATU_Main
+    2300006: ATU_Mainrail_Clearance_Box_Left
+    2300008: ATU_Mainrail_Clearance_Box_Right
+    2300010: ATU_Mainrail_Extension_Left
+    2300012: ATU_Mainrail_Extension_Right
+    2300014: ATU_Mid_Filler
+    2300016: ATU_Part_Left
+    2300018: ATU_Part_Right
+    2300020: ATU_Siderail_Extension_Left
+    2300022: ATU_Siderail_Extension_Right
+    2300024: ATU_Top_Electric_Box_Short_Left
+    2300026: ATU_Top_Electric_Box_Short_Right
+    2300028: ATU_Top_Electric_Box_Tall_Left
+    2300030: ATU_Top_Electric_Box_Tall_Right
+    2300032: ATU_Top_Filler_Short
+    2300034: ATU_Top_Filler_Tall
+    3300000: ATU_Core_Left
+    3300002: ATU_Core_Right
+    3300004: ATU_Main
+    3300006: ATU_Mainrail_Clearance_Box_Left
+    3300008: ATU_Mainrail_Clearance_Box_Right
+    3300010: ATU_Mainrail_Extension_Left
+    3300012: ATU_Mainrail_Extension_Right
+    3300014: ATU_Mid_Filler
+    3300016: ATU_Part_Left
+    3300018: ATU_Part_Right
+    3300020: ATU_Siderail_Extension_Left
+    3300022: ATU_Siderail_Extension_Right
+    3300024: ATU_Top_Electric_Box_Short_Left
+    3300026: ATU_Top_Electric_Box_Short_Right
+    3300028: ATU_Top_Electric_Box_Tall_Left
+    3300030: ATU_Top_Electric_Box_Tall_Right
+    3300032: ATU_Top_Filler_Short
+    3300034: ATU_Top_Filler_Tall
+    4300000: ATU_Core_Left
+    4300002: ATU_Core_Right
+    4300004: ATU_Main
+    4300006: ATU_Mainrail_Clearance_Box_Left
+    4300008: ATU_Mainrail_Clearance_Box_Right
+    4300010: ATU_Mainrail_Extension_Left
+    4300012: ATU_Mainrail_Extension_Right
+    4300014: ATU_Mid_Filler
+    4300016: ATU_Part_Left
+    4300018: ATU_Part_Right
+    4300020: ATU_Siderail_Extension_Left
+    4300022: ATU_Siderail_Extension_Right
+    4300024: ATU_Top_Electric_Box_Short_Left
+    4300026: ATU_Top_Electric_Box_Short_Right
+    4300028: ATU_Top_Electric_Box_Tall_Left
+    4300030: ATU_Top_Electric_Box_Tall_Right
+    4300032: ATU_Top_Filler_Short
+    4300034: ATU_Top_Filler_Tall
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="VRATUImgFull" size="25.000000 25.000000" />
+    <ImageTarget name="VRATUImgSmall" size="25.000000 25.000000" />
+    <ImageTarget name="ATUMiniImageTarget" size="2500.000000 2485.207031" />
+    <ImageTarget name="ATUFullImageTarget" size="100.000000 99.408287" />
+  </Tracking>
+</QCARConfig>
