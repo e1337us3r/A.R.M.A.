@@ -57,3 +57,9 @@ notes to it before including it in the documentation.
 ## Gallery
 ![screenshot1](https://github.com/e1337us3r/A.R.M.A./blob/master/Gallery/Screenshot_20181121-115538_VR-ATU-Proto.jpg?raw=true)
 ![screenshot2](https://github.com/e1337us3r/A.R.M.A./blob/master/Gallery/Screenshot_20181121-115912_VR-ATU-Proto.jpg?raw=true)
+
+## The team behind it
+Jarno Sokka (Developer)
+Lukas Hacker (Business)
+Sinan Sakaoglu (Developer)
+Tomi Pohja (Business & Artist)
